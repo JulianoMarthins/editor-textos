@@ -1,0 +1,14 @@
+D:\WorkSpace\Projetos\CSharp\editor-textos\bin\Debug\net10.0\editor-textos.exe
+D:\WorkSpace\Projetos\CSharp\editor-textos\bin\Debug\net10.0\editor-textos.deps.json
+D:\WorkSpace\Projetos\CSharp\editor-textos\bin\Debug\net10.0\editor-textos.runtimeconfig.json
+D:\WorkSpace\Projetos\CSharp\editor-textos\bin\Debug\net10.0\editor-textos.dll
+D:\WorkSpace\Projetos\CSharp\editor-textos\bin\Debug\net10.0\editor-textos.pdb
+D:\WorkSpace\Projetos\CSharp\editor-textos\obj\Debug\net10.0\editor-textos.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\Projetos\CSharp\editor-textos\obj\Debug\net10.0\editor-textos.AssemblyInfoInputs.cache
+D:\WorkSpace\Projetos\CSharp\editor-textos\obj\Debug\net10.0\editor-textos.AssemblyInfo.cs
+D:\WorkSpace\Projetos\CSharp\editor-textos\obj\Debug\net10.0\editor-textos.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Projetos\CSharp\editor-textos\obj\Debug\net10.0\editor-textos.dll
+D:\WorkSpace\Projetos\CSharp\editor-textos\obj\Debug\net10.0\refint\editor-textos.dll
+D:\WorkSpace\Projetos\CSharp\editor-textos\obj\Debug\net10.0\editor-textos.pdb
+D:\WorkSpace\Projetos\CSharp\editor-textos\obj\Debug\net10.0\editor-textos.genruntimeconfig.cache
+D:\WorkSpace\Projetos\CSharp\editor-textos\obj\Debug\net10.0\ref\editor-textos.dll
